@@ -26,9 +26,9 @@ If you have additional material (pictures, topologies), please save them in the 
 
 ### Plain text
 
-Your name here: 
-Student number: 
-Student group: 
+Your name here: Onni Roivas
+Student number: AB0410
+Student group: TIC21S1
 
 ### Image
 
