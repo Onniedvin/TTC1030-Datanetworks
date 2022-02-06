@@ -1,0 +1,3 @@
+set interfaces ethernet eth0 vif 5 address 192.168.32.62/26
+
+set interfaces ethernet eth0 vif 10 address 192.168.32.125/26
