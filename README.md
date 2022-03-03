@@ -32,8 +32,8 @@
 
 - [E17.md](/documentation/E17.md)
 
-Your name here: Onni Roivas
+Onni Roivas
 
-Student number: AB0410
+AB0410
 
-Student group: TIC21S1
+TIC21S1
